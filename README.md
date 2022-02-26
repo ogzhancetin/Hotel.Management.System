@@ -1,5 +1,5 @@
 # Hotel.Management.System
-This project has been prepared for Object Oriented Programming in Java course.
+This project has prepared for "Object Oriented Programming in Java" course.
 
 ______________________________________________________________________________________</p>
 
